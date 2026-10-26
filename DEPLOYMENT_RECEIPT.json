@@ -1,0 +1,14 @@
+{
+  "project": "charles-lyell-ai",
+  "network": "Solana Devnet",
+  "cluster_url": "https://api.devnet.solana.com",
+  "mint_address": "Drfdj6Tt25bUBGgieE8tcN8tJbbDdPVvJ51LZkLop9if",
+  "vault_account": "6AYQtig56tHd4JsZHw3UXNkBZTpA6KhpfwFirGQcA75h",
+  "initial_supply": 1000000,
+  "decimals": 9,
+  "creation_tx": "5sSSscyuaWVmgyYtNxxphoGmJ4cNWsNPduQqXBYv8s2srUei2VLuPQTyhCL1r73E2KQhvA8zJpyDmbVsGKiQ5uEN",
+  "account_tx": "5eYJVdYThVwRp9kay1VVcMDxgqNbZhEjLx3FHFXpzvAKZhcfSVywSHRMrnvPHwHo4uUfisCdapYQGHmFz2b9gfK5",
+  "mint_tx": "2k9XNukctgnRdXE7y6VnxQx98gJVyBTShHUdMA54z4PqS3JCwezqACEErqgx1QaeJqRwNReHQW7jW5GJWjrhbrCu",
+  "solana_explorer_mint": "https://explorer.solana.com/address/Drfdj6Tt25bUBGgieE8tcN8tJbbDdPVvJ51LZkLop9if?cluster=devnet",
+  "timestamp": "2026-10-26 16:26:05 UTC"
+}
